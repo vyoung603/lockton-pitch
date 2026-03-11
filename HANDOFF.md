@@ -1,10 +1,10 @@
 # Lockton Pitch Deck -- Handoff Document
 
 ## Live URL
-https://vyoung603.github.io/denver-health-pitch/
+https://vyoung603.github.io/lockton-pitch/
 
 ## Repo
-https://github.com/vyoung603/denver-health-pitch
+https://github.com/vyoung603/lockton-pitch
 
 ---
 
