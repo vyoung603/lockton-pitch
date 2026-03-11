@@ -1,0 +1,29 @@
+IMAGE DOWNLOAD SUMMARY
+======================
+Source: Google Slides Presentation ID: 1AomGutFDK-NqpZ1n6xTcgeemZOgGq2V3dma4o0KkpoQ
+
+SLIDE 2 (Index 1) - AI Coach Screens:
+- ai-coach-slide2_1.png (962K) - 945x2048 RGBA
+- ai-coach-slide2_2.png (464K) - 945x2048 RGBA
+- ai-coach-slide2_3.png (253K) - 618x1328 RGBA
+- ai-coach-slide2_4.png (264K) - 618x1328 RGBA
+
+SLIDE 3 (Index 2) - Brain Training Screens:
+- brain-training-slide3_1.png (418K) - 945x2048 RGBA
+- brain-training-slide3_2.png (522K) - 945x2048 RGBA
+- brain-training-slide3_3.png (3.1M) - 945x2048 RGBA
+- brain-training-slide3_4.png (1.7M) - 945x2048 RGBA
+- brain-training-slide3_5.png (1.7M) - 945x2048 RGBA
+
+SLIDE 5 (Index 4) - Population Insights:
+- population-slide5_1.png (320K) - 1200x675 RGB
+- Text content: Only slide number "5" present
+
+SLIDE 6 (Index 5) - Population Insights (continued):
+- population-slide6_1.png (320K) - 1200x675 RGB
+
+All images downloaded successfully to:
+/Users/vyoung/Desktop/Clawdex/scratch/denver-health-pitch/product-screens/
+
+Total new images: 11
+Total size: ~9.5MB
