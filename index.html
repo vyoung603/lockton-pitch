@@ -213,6 +213,8 @@ body {
 }
 
 .deck-logo.visible { opacity: 1; }
+.deck-logo.inverted img { filter: brightness(0) invert(1); }
+.deck-logo.inverted span { color: var(--gold); }
 
 .deck-logo svg { width: 120px; height: auto; }
 
@@ -1410,6 +1412,7 @@ function updateUI() {
   prevBtn.disabled = current === 0;
   nextBtn.disabled = current === total - 1;
   logo.classList.toggle('visible', current > 0);
+  logo.classList.toggle('inverted', slides[current].classList.contains('bg-navy'));
 
   dotsContainer.querySelectorAll('.progress-dot').forEach((dot, i) => {
     dot.className = 'progress-dot' + (i === current ? ' active' : '');
